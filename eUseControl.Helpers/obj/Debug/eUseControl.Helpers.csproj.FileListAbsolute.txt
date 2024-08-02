@@ -1,0 +1,15 @@
+H:\univer\PJ\eUseControl\eUseControl.Helpers\bin\Debug\eUseControl.Helpers.dll
+H:\univer\PJ\eUseControl\eUseControl.Helpers\bin\Debug\eUseControl.Helpers.pdb
+H:\univer\PJ\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.dll
+H:\univer\PJ\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.pdb
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Helpers\bin\Debug\eUseControl.Helpers.dll
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Helpers\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.csproj.AssemblyReference.cache
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.dll
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.pdb
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Helpers\bin\Debug\eUseControl.Helpers.dll
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Helpers\bin\Debug\eUseControl.Helpers.pdb
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.dll
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Helpers\obj\Debug\eUseControl.Helpers.pdb

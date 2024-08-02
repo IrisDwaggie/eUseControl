@@ -1,0 +1,25 @@
+H:\univer\PJ\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csprojResolveAssemblyReference.cache
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.pdb
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.dll
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.pdb
+H:\univer\PJ\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
+H:\univer\PJ\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.pdb
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.dll
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.AssemblyReference.cache
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CopyComplete
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
+C:\Users\IrisDwaggie\Desktop\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.pdb
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.dll
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.pdb
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.AssemblyReference.cache
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CopyComplete
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
+D:\Documents\2 Курс\IV полугодие\WEB\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
